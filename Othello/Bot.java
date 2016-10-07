@@ -2,13 +2,13 @@ import java.util.ArrayList;
 
 // Created by Michal, Winston and Long
 
-public class Anastasia extends OthelloPlayer {
+public class Bot extends OthelloPlayer {
     private int MIN_MAX_DEPTH = 15;
 
     private Integer BLACK = OthelloBoard.BLACK;
     private Integer WHITE = OthelloBoard.WHITE;
 
-    public Anastasia(Integer _color) {
+    public Bot(Integer _color) {
         super(_color);
     }
 
