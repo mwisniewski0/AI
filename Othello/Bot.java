@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-// Created by Michal, Winston and Long
-
 public class Bot extends OthelloPlayer {
     private int MIN_MAX_DEPTH = 15;
 
