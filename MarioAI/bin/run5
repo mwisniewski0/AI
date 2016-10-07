@@ -1,2 +1,0 @@
-javac -d ../bin -classpath ../lib/jdom.jar:../lib/junit-4.8.2.jar:. ../src/ch/idsia/agents/controllers/MyAgent.java
-java -classpath ../lib/jdom.jar:. ch.idsia.scenarios.Main -ag ch.idsia.agents.controllers.MyAgent -ld 5
